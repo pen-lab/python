@@ -1,5 +1,5 @@
 import asyncio
-from .lib.future import Future
+from tools.future import Future
 
 
 def fetch_user_order() -> Future[str]:
