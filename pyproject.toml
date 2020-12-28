@@ -6,6 +6,7 @@ authors = ["pen-dev <pelipenkovaldislav@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Rx = "^3.1.1"
 
 [tool.poetry.dev-dependencies]
 
