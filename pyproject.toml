@@ -5,8 +5,9 @@ description = "python code snippets"
 authors = ["pen-dev <pelipenkovaldislav@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 Rx = "^3.1.1"
+aioreactive = "^0.15.0"
 
 [tool.poetry.dev-dependencies]
 
